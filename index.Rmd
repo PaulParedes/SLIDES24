@@ -22,6 +22,11 @@ output:
 
 View the [R Markdown source for the slides at GitHub](https://github.com/andrewheiss/talks/tree/master/2022-03-22_uga-putting-everything-out-there).
 
+
+La idea es que en el archivo index, se pone los enlaces a los slides que se van creando como el ejemplo líneas abajo. Y así de fácil, jeje
+
+- [Prueba clase 15](https://paulparedes.github.io/SLIDES24/CLASE-15-PRUEBA.html)
+
 ## Tell people you exist
 
 - [Google Scholar](https://scholar.google.com/)
