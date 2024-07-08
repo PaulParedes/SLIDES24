@@ -1,13 +1,13 @@
 ---
-title: "Putting everything out there as a researcher"
+title: "Lista de presentaciones - Paul Paredes"
 author:
-- name: Andrew Heiss, PhD
-  affiliation: "Andrew Young School of Policy Studies<br>Georgia State University"
-  email: aheiss@gsu.edu
+- name: Paul Paredes, Mag.
+  affiliation: "Maestría en Derecho del Trabajo y Seguridad Social<br>Pontificia Universidad Católica del Perú"
+  email: pgparede@pucp.edu.pe
 date: >-
-  March 22, 2022<br><br>
-  <small>EPID 9100 PhD/MS Seminar, Spring 2022<br>
-  Department of Epidemiology & Biostatistics • University of Georgia</small>
+  Julio, 2024<br><br>
+  <small>Procesos laborales, 2024-1<br>
+  Maestría en Derecho del Trabajo y Seguridad Social  • PUCP</small>
 output:
   html_document:
     theme: cosmo
@@ -16,7 +16,13 @@ output:
 
 ---
 
-## Slides
+## Presentaciones
+
+
+- [Clase 15 - Prueba](https://paulparedes.github.io/slides24/CLASE-15-PRUEBA.html) | [PDF](https://paulparedes.github.io/slides24/CLASE-15-PRUEBA.pdf)
+
+<!--
+
 
 <p><a class="btn btn-info btn-lg" target="_blank" href="slides.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-info btn-lg" target="_blank" href="slides.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
 
@@ -24,8 +30,6 @@ View the [R Markdown source for the slides at GitHub](https://github.com/andrewh
 
 
 La idea es que en el archivo index, se pone los enlaces a los slides que se van creando como el ejemplo líneas abajo. Y así de fácil, jeje
-
-- [Prueba clase 15](https://paulparedes.github.io/slides24/CLASE-15-PRUEBA.html)
 
 ## Tell people you exist
 
@@ -71,3 +75,5 @@ Domain names:
 &nbsp;
 
 &nbsp;
+
+-->
