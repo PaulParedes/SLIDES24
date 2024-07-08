@@ -25,7 +25,7 @@ View the [R Markdown source for the slides at GitHub](https://github.com/andrewh
 
 La idea es que en el archivo index, se pone los enlaces a los slides que se van creando como el ejemplo líneas abajo. Y así de fácil, jeje
 
-- [Prueba clase 15](https://paulparedes.github.io/SLIDES24/CLASE-15-PRUEBA.html)
+- [Prueba clase 15](https://paulparedes.github.io/slides24/CLASE-15-PRUEBA.html)
 
 ## Tell people you exist
 
