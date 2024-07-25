@@ -21,6 +21,8 @@ output:
 
 - [Clase 15 - Prueba](https://paulparedes.github.io/slides24/CLASE-15-PRUEBA.html) | [PDF](https://paulparedes.github.io/slides24/CLASE-15-PRUEBA.pdf)
 
+- [Clase 15A - Prueba](https://paulparedes.github.io/slides24/slides.html) 
+
 <!--
 
 
